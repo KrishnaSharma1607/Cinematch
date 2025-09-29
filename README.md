@@ -1,3 +1,5 @@
+Check out the live demo here: [Cinematch](https://cinematch-ai-fe98d.web.app/)
+
 📄 Project Overview: Movie Recommendation System This project is an AI-powered movie recommendation system designed to suggest movies tailored to user preferences. Leveraging the Gemini API, the system analyzes user input or preferences to generate smart and context-aware movie suggestions. In addition to personalized recommendations, the project integrates movie trailers for a more immersive and engaging experience. Looking ahead, the project aims to include TV series recommendations by incorporating The Movie Database (TMDb) API, further expanding the scope and usefulness of the platform.
 
 Features:
